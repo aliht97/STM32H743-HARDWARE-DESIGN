@@ -2,7 +2,8 @@
 
 A professional 4-layer development board based on the STM32H743 microcontroller, designed for high-performance embedded and industrial applications.
 
-<img width="2473" height="1511" alt="image" src="https://github.com/user-attachments/assets/c653bbc0-b1ad-4f23-9550-b203fb46fba3" />
+<img width="1603" height="1342" alt="image" src="https://github.com/user-attachments/assets/f0d61e5d-c7aa-4600-8bd6-348ddc94cb7f" />
+
 
 
 ## Features
