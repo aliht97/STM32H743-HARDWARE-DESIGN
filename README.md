@@ -11,6 +11,7 @@ A professional 4-layer development board based on the STM32H743 microcontroller,
 * STM32H743IIT6 microcontroller
 * External SDRAM
 * QSPI Flash memory
+* EPPROM
 * 10/100 Mbps Ethernet (RMII)
 * microSD card interface (SDIO)
 * RGB LCD interface
